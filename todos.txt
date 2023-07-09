@@ -1,0 +1,5 @@
+play football
+play badminton
+play hockey
+play volley
+play chess
